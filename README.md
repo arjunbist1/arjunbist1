@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Arjun
 
-<!--
-**arjunbist1/arjunbist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI & Data Enthusiast
 
-Here are some ideas to get you started:
+I'm a Software Engineer interested in **Artificial Intelligence, Data Analytics, Backend Development, and LLM-powered applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications and exploring how AI, data, and backend technologies can be used to solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* C++
+* SQL
+* JavaScript
+
+**Backend & Development**
+
+* FastAPI
+* REST APIs
+* SQLAlchemy
+* Alembic
+* MySQL
+
+**AI & LLM**
+
+* LangChain
+* LangGraph
+* Large Language Models (LLMs)
+* Machine Learning
+* Deep Learning
+* AI Agents
+
+**Data & Analytics**
+
+* Pandas
+* Power BI
+* Excel
+* Data Analysis
+
+**Tools**
+
+* Postman
+* VS Code
+* Google Colab
+
+---
+
+### Featured Projects
+
+** Task Manager API**
+REST API built with FastAPI, SQLAlchemy and Alembic.
+
+** AI & LLM Projects**
+Exploring LLM-powered applications, AI agents, retrieval systems, and AI workflows using Python, LangChain and LangGraph.
+
+** Data Analysis Projects**
+Data analysis and visualization projects using Python, SQL, Excel and Power BI.
+
+
+### Currently Learning
+
+* AI Engineering
+* LLM & AI Agent Development
+* LangChain & LangGraph
+* Backend Development with FastAPI
+* SQL & Database Design
+* Python Problem Solving
+
+---
+
+### Connect With Me
+
+**LinkedIn:** [Arjun Bisht](https://www.linkedin.com/in/arjun-bist-b12ab1163/)
+
+**GitHub:** [@arjunbist1](https://github.com/arjunbist1)
+
+---
+
+Feel free to explore my repositories and projects.
